@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Meco/IndustryCheck/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/IndustryCheck.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\IndustryCheck.dir\\IndustryCheck_autogen\\mocs_compilation.cpp.obj -c C:\\Meco\\IndustryCheck\\build\\IndustryCheck_autogen\\mocs_compilation.cpp",
+  "file": "C:/Meco/IndustryCheck/build/IndustryCheck_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/IndustryCheck.dir/IndustryCheck_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Meco/IndustryCheck/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/IndustryCheck.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\IndustryCheck.dir\\src\\IndustryCheck.cpp.obj -c C:\\Meco\\IndustryCheck\\src\\IndustryCheck.cpp",
+  "file": "C:/Meco/IndustryCheck/src/IndustryCheck.cpp",
+  "output": "CMakeFiles/IndustryCheck.dir/src/IndustryCheck.cpp.obj"
+},
+{
+  "directory": "C:/Meco/IndustryCheck/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/IndustryCheck.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\IndustryCheck.dir\\src\\MvCamera.cpp.obj -c C:\\Meco\\IndustryCheck\\src\\MvCamera.cpp",
+  "file": "C:/Meco/IndustryCheck/src/MvCamera.cpp",
+  "output": "CMakeFiles/IndustryCheck.dir/src/MvCamera.cpp.obj"
+},
+{
+  "directory": "C:/Meco/IndustryCheck/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/IndustryCheck.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\IndustryCheck.dir\\src\\cropRoi.cpp.obj -c C:\\Meco\\IndustryCheck\\src\\cropRoi.cpp",
+  "file": "C:/Meco/IndustryCheck/src/cropRoi.cpp",
+  "output": "CMakeFiles/IndustryCheck.dir/src/cropRoi.cpp.obj"
+},
+{
+  "directory": "C:/Meco/IndustryCheck/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/IndustryCheck.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\IndustryCheck.dir\\src\\cropbox.cpp.obj -c C:\\Meco\\IndustryCheck\\src\\cropbox.cpp",
+  "file": "C:/Meco/IndustryCheck/src/cropbox.cpp",
+  "output": "CMakeFiles/IndustryCheck.dir/src/cropbox.cpp.obj"
+},
+{
+  "directory": "C:/Meco/IndustryCheck/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/IndustryCheck.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\IndustryCheck.dir\\src\\main.cpp.obj -c C:\\Meco\\IndustryCheck\\src\\main.cpp",
+  "file": "C:/Meco/IndustryCheck/src/main.cpp",
+  "output": "CMakeFiles/IndustryCheck.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Meco/IndustryCheck/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/IndustryCheck.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\IndustryCheck.dir\\src\\myThread.cpp.obj -c C:\\Meco\\IndustryCheck\\src\\myThread.cpp",
+  "file": "C:/Meco/IndustryCheck/src/myThread.cpp",
+  "output": "CMakeFiles/IndustryCheck.dir/src/myThread.cpp.obj"
+}
+]

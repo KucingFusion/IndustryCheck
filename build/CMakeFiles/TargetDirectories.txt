@@ -1,0 +1,5 @@
+C:/Meco/IndustryCheck/build/CMakeFiles/IndustryCheck.dir
+C:/Meco/IndustryCheck/build/CMakeFiles/edit_cache.dir
+C:/Meco/IndustryCheck/build/CMakeFiles/rebuild_cache.dir
+C:/Meco/IndustryCheck/build/CMakeFiles/IndustryCheck_autogen_timestamp_deps.dir
+C:/Meco/IndustryCheck/build/CMakeFiles/IndustryCheck_autogen.dir
